@@ -1,5 +1,3 @@
----
-
 ```markdown
 # AGENTS.md — FDL-GROMADA-NOVEYA
 
@@ -253,3 +251,4 @@ __pycache__/
 ```
 
 [1]: https://github.com/NgoiSigma/fdl-gromada-noveya "GitHub - NgoiSigma/fdl-gromada-noveya: Resonance-based FDL architecture and semantic agent SDK for NOVЕYA. A living logic system for self-organization and conscious ecosystems."
+
