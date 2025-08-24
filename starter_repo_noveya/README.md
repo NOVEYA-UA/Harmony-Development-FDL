@@ -1,0 +1,3 @@
+# Noveya Platform Starter Repo
+
+Инструкция по запуску будет добавлена...
