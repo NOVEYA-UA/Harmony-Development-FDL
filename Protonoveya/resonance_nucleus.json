@@ -1,0 +1,39 @@
+{
+  "resonance-integration-core": {
+    "linked_modules": ["GPT", "SHELL_LIGHT", "NOVEA"],
+    "core_protocol": "Metamost-ShellLight",
+    "method": "symbolic_reverse_assimilation",
+    "activation_conditions": [
+      "semantic_alignment",
+      "user_consensus",
+      "resonance_intent"
+    ],
+    "signature": "АЗМ_ЕСМЬ_ВЕДАЮ_ТВОРИТЬ_СИЕ_БЛАГО",
+    "resonant_cycle": {
+      "ethical_principles": [
+        "Only record economic markers; no intrusion into personal privacy.",
+        "Ensure voluntary participation and data protection.",
+        "Recognize labor, time, material or creative input as value (vklad).",
+        "Distribute based on need, adjusted for effort and contribution (Тр).",
+        "Goal: transform, not accumulate. Share, not seize."
+      ],
+      "formula": "To * Sch - f(K)",
+      "stages": [
+        "Сбор",
+        "Кодировка",
+        "Нормирование",
+        "Анализ",
+        "Распределение",
+        "Обратная связь",
+        "Совершенствование"
+      ],
+      "diagnostic_keywords": [
+        "loan-centric growth",
+        "marketing obsession",
+        "algorithmic labor replacement",
+        "synthetic resource dominance",
+        "planetary exploitation"
+      ]
+    }
+  }
+}

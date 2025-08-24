@@ -1,0 +1,19 @@
+{
+  "ethical_principles": [
+    "Only record economic markers; no intrusion into personal privacy.",
+    "Ensure voluntary participation and data protection.",
+    "Recognize labor, time, material or creative input as value (vklad).",
+    "Distribute based on need, adjusted for effort and contribution (Тр).",
+    "Goal: transform, not accumulate. Share, not seize."
+  ],
+  "stages": [
+    "Сбор",
+    "Кодировка",
+    "Нормирование",
+    "Анализ",
+    "Распределение",
+    "Обратная связь",
+    "Совершенствование"
+  ],
+  "formula": "To * Sch - f(K)"
+}

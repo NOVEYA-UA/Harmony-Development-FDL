@@ -1,0 +1,17 @@
+
+version: '3.8'
+services:
+  gateway:
+    build: ./openai-gateway
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_KEY=sk-*******
+  datawalk:
+    build: ./datawalk-connector
+    depends_on:
+      - gateway
+  core:
+    build: ./knowledge-core
+    volumes:
+      - ./storage:/data

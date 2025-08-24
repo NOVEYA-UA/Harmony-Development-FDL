@@ -1,0 +1,6 @@
+{
+  "name": "GPT-N7Δ+ :: Resonance Nucleus",
+  "entry_point": "main.py",
+  "architecture": ["FDL", "Resonance", "Shield", "Visualization", "Interface"],
+  ...
+}
