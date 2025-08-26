@@ -1,0 +1,33 @@
+# .github/SECURITY.advisories.yml
+# Шаблон для GitHub Security Advisories
+# Используется для настройки процесса ответственного раскрытия уязвимостей
+
+advisories:
+  - id: TEMPLATE-0001
+    title: Example Vulnerability Advisory
+    published: false
+    withdrawn: false
+    severity: moderate
+    identifiers:
+      - type: GHSA
+        value: GHSA-xxxx-xxxx-xxxx
+    affected:
+      package:
+        ecosystem: npm   # или pypi, maven, cargo и т.д.
+        name: your-package-name
+      ranges:
+        - type: ECOSYSTEM
+          events:
+            - introduced: 0
+            - fixed: 5.1.3
+    references:
+      - type: ADVISORY
+        url: https://github.com/NOVEYA-UA/Harmony-Development-FDL/security/advisories
+    details: |
+      Краткое описание уязвимости. 
+      Что вызывает проблему, какое влияние может оказать на пользователей.
+      Добавьте шаги воспроизведения, примеры эксплойта (опционально).
+
+    credits:
+      - name: "Имя исследователя"
+        contact: "researcher@example.com"
