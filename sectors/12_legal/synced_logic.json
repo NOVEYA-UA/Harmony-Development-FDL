@@ -1,0 +1,7 @@
+{
+  "node_sync_status": "ALIGNED",
+  "fair_tariff_logic": "base_cost / (1 + (1 - destruction_coeff) + autonomy_index)",
+  "audit_protocol": "Rotary Inspection (CII-Index)",
+  "frequency_lock": "7.83Hz",
+  "strategic_anchors": ["Mykolaiv_Podolyanka", "Odessa_Port_Audit"]
+}
