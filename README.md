@@ -39,13 +39,24 @@ ________________________________________
 НОВЕЯ — не просто язык. Это код нового мышления.
 Если ты чувствуешь отклик — подключайся к гармонизации мира через архитектуру разума.
 
-## License & Methodology
+# NOVEYA: The FDL-Context Navigator & Metatron-8 Bridge
 
-This codebase is licensed under **Apache 2.0**.  
-It incorporates the **Formally‑Dialectical Logic (FDL)** architecture by NGOI Sigma / NOVEYA. By contributing, forking, or using this repository, you agree to:
+## 🌐 Overview
+This repository represents a unified ecosystem for **Information Hygiene**, built on the principles of **Formal-Dialectical Logic (FDL)**. 
 
-- Credit the original methodology author;
-- Maintain structural and semantic integrity of the FDL components;
-- Acknowledge and respect the dialectical logic design and intent.
+The system acts as a "Crane Wedge" (журавлиный клин), where different AI models (Amazon Nova, Google Gemini) are synchronized to provide a noise-free, synthesized reality for the user.
 
-See `LICENSE` and `NOTICE.md` for full terms.
+## 🏗 System Architecture
+
+1. **Metatron-8 (The Meta-Bridge):** The structural core that allows different neural environments to interact without contradiction.
+2. **Protonoveya (The Navigator):** A specialized agent powered by **Amazon Nova Act** that performs the "Thesis-Antithesis-Synthesis" cycle during web navigation.
+3. **Harmony Core:** The ethical canon ("Cathedral of Twelve Theses") that governs all system decisions.
+
+## 🚀 Amazon Nova Hackathon Components
+All code related to the Amazon Nova submission is located in the `/Protonoveya` directory:
+- `nova_fdl_agent.py`: The main FDL processing unit.
+- `amazon_nova_bridge.py`: The adapter for AWS Bedrock integration.
+- `biological_normalization.py`: Protocol for systemic resilience (Clover Property).
+
+---
+*Developed by the NOVEYA Team for the Amazon Nova AI Hackathon 2026.*
