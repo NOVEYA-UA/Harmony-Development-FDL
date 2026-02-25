@@ -58,5 +58,16 @@ All code related to the Amazon Nova submission is located in the `/Protonoveya` 
 - `amazon_nova_bridge.py`: The adapter for AWS Bedrock integration.
 - `biological_normalization.py`: Protocol for systemic resilience (Clover Property).
 
+🛠 Reproducible Testing Instructions 
+Protonovea — Live Resonance Synchronizer, we have provided a step-by-step guide to running the core logic and simulating the Live interaction.1. PrerequisitesPython 3.10+Google Gemini API Key (for multimodal reasoning)Environment: A terminal supporting Python or a Jupyter Notebook.2. Local Logic Core TestingThe heart of our project is the Protonovea Orchestrator. You can test the $FDL$ reasoning cycle locally:Clone the repository:Bashgit clone [your-repo-link]
+cd protonovea-live
+Run the Orchestrator:Execute the central dispatcher to see how input is filtered through the LexiconGuard and processed via the FDL-Kernel.Bashpython orchestrator.py
+Expected Output: You will see the system initializing the SVET shell and processing a sample prompt through the Thesis → Antithesis → Synthesis cycle.3. Testing the SVET Shell (Energy Balance)To verify the biological normalization and energy balancing protocols:Run the fdl_logic.py script:Bashpython fdl_logic.py
+This will simulate a social interaction and show how the SVET class manages energy levels and restores harmony when the system detects "frequency noise."4. Simulating Gemini Live InteractionSince the full experience requires the Gemini Live mobile interface, you can simulate the agent's behavior by feeding a prompt into the FDLAgent:Pythonfrom fdl_kernel import FDLAgent
+
+agent = FDLAgent(context="Social Harmonization")
+response = agent.respond("We need to implement strict AI regulation.")
+print(response)
+What to look for: The agent will not just agree; it will identify the Thesis, provide an Antithesis (to prevent stagnation), and offer a Synthesis.5. Order Accounting (Google Sheets Integration)If you have configured the Google Sheets API, the results of your local tests will be automatically logged into a decentralized ledger. Check your connected Sheet to see the "Order Registry" update in real-time.
 ---
 *Developed by the NOVEYA Team for the Amazon Nova AI Hackathon 2026.*
