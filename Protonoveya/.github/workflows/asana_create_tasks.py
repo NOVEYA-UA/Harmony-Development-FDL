@@ -22,7 +22,7 @@ import requests
 
 
 # TODO: Insert your Asana PAT here
-ASANA_PAT = "2/1211087853521979/1213212629909363:5dbe89f08037548651eb976e94ca703b"
+ASANA_PAT = "YOUR TOKEN"
 
 # TODO: Insert your project gid here
 PROJECT_GID = "1213212629909363"
