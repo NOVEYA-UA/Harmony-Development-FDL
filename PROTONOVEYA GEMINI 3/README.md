@@ -80,7 +80,7 @@ Protonovea is the first system to incorporate the "Meridian Discontinuity Remova
 ---
 
 **Developer:** NGOI / Project NOVEYA
-**Architect:** Andrew (Σ-FDL Protocol)
+**Architect:** Fravahr Ormazd (Σ-FDL Protocol)
 **Technology stack:** Python, Google Gemini Live, Ollama (Gemma 2B), Google Workspace.
 
 ---
